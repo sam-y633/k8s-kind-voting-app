@@ -1,6 +1,6 @@
 FROM python:3.9-slim
 
-# add apache bench (ab) too
+# add apache bench (ab) tool
 RUN apt-get update \
     && apt-get install -y --no-install-recommends \
     apache2-utils \
