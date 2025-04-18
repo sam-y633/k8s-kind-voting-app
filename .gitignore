@@ -1,4 +1,4 @@
-*.pyc
+*.py
 project.lock.json
 bin/
 obj/
