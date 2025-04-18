@@ -18,4 +18,4 @@ if select="$(echo 'SELECT 1' | psql "${args[@]}")" && [ "$select" = '1' ]; then
 	exit 0
 fi
 
-exit 2
+exit 1
