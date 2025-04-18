@@ -1,4 +1,4 @@
-# for running in docker compose with prebuilt images
+# for running in docker compose with prebuilt image
 
 # version is now using "compose spec"
 # v2 and v3 are now combined!
